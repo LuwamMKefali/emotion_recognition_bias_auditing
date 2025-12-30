@@ -52,15 +52,15 @@ All evaluations are performed on **unaltered, real-world images** to reflect rea
 
 ---
 
-## Repository Structure
-
-├── data/ # Dataset loaders and splits
-├── models/ # Model wrappers and inference scripts
-├── explainability/ # Grad-CAM, LIME, occlusion analysis
-├── evaluation/ # Metrics, calibration, benchmarking
-├── notebooks/ # Experiments and visualizations
-├── audit_checklist/ # Neurodiversity-informed fairness checklist
-└── report/ # Final report and figures
+## Repository_structure:
+  - data/
+  - models/
+  - explainability/
+  - evaluation/
+  - notebooks/
+  - audit_checklist/
+  - report/
+  - README.md
 
 
 ---
