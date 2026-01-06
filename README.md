@@ -73,14 +73,6 @@ All evaluations are performed on **unaltered, real-world images** to reflect rea
 
 ---
 
-## Team
-
-- **Luwam Major Kefali** – Explainability (Grad-CAM, LIME), occlusion analysis, pipelines
-- **Hassen Said Ali** – Model benchmarking, evaluation metrics, pipelines  
-- **Hilina Fissha Woreta** – Ethical analysis and auditing checklist  
-
----
-
 ## Motivation
 
 Emotion recognition models influence real decisions about people.  
